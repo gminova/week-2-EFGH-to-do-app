@@ -1,4 +1,4 @@
-# [To Do App](https://fac-17.github.io/week-2-EFGH-to-do-app/) :dart::memo:
+# [To Do App](https://gminova.github.io/week-2-EFGH-to-do-app/) :dart::memo:
 
 ## Aim - Use Test driven development(TDD) to build a To-do app
 
